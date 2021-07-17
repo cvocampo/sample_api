@@ -1,7 +1,7 @@
 # Library used
 
-Laravel sanctum for authentication = https://laravel.com/docs/8.x/sanctum
-Spatie Roles and Permissions for handling the roles efficiently = https://spatie.be/docs/laravel-permission/v4/introduction
+Laravel sanctum for authentication = https://laravel.com/docs/8.x/sanctum.
+Spatie Roles and Permissions for handling the roles efficiently = https://spatie.be/docs/laravel-permission/v4/introduction.
 
 
 # Setting up Database
